@@ -33,13 +33,13 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html"><img src="img/logo.png" height=30 width=41></a>
+                <a class="navbar-brand" href="index.php"><img src="img/logo.png" height=30 width=41></a>
             </div>
             <div id="navbar" class="navbar-collapse collapse navbar-nav">
                 <ul class="nav navbar-nav">
-                    <li><a href="index.html"><span class="glyphicon glyphicon-home"
+                    <li><a href="index.php"><span class="glyphicon glyphicon-home"
                          aria-hidden="true"></span> Home</a></li>
-                    <li><a href="aboutus.html">
+                    <li><a href="aboutus.php">
                         <span class="glyphicon glyphicon-info-sign"
                          aria-hidden="true"></span> About</a></li>
                     <li class="dropdown">
@@ -99,7 +99,7 @@
         <div class="row">
             <div class="col-xs-12">
                <ul class="breadcrumb">
-                   <li><a href="index.html">Home</a></li>
+                   <li><a href="index.php">Home</a></li>
                    <li class="active">Contact Us</li>
                </ul>
             </div>
@@ -214,10 +214,10 @@
                 <div class="col-xs-5 col-xs-offset-1 col-sm-2 col-sm-offset-1">
                     <h5>Links</h5>
                     <ul class="list-unstyled">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="aboutus.html">About</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="aboutus.php">About</a></li>
                         <li><a href="#">Menu</a></li>
-                        <li><a href="contactus.html">Contact</a></li>
+                        <li><a href="contactus.php">Contact</a></li>
                     </ul>
                 </div>
                 <div class="col-xs-6 col-sm-5">
